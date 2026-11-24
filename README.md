@@ -24,7 +24,6 @@ This repository distributes the portable app. The complete application is attach
 
 Use the Hide and Unhide buttons to restore the same page and draft. Drag screenshot thumbnails into the page or paste the copied image.
 
-The app reuses the Ultralay Desktop profile at `%LOCALAPPDATA%\UltralayDesktop\cef-cache`. See the README inside the ZIP for startup options and additional details.
 
 ## Third-party notices
 
